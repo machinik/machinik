@@ -24,3 +24,4 @@ Update dependencies
 Rewrite function Y
 Optimize loop
 Polish UI layout
+Change theme color
