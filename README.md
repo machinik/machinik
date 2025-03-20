@@ -28,3 +28,4 @@ Change theme color
 Remove unused imports
 Change theme color
 Refactor core logic
+Optimize loop
