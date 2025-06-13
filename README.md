@@ -22,3 +22,4 @@ Clean up codebase
 Rewrite function Y
 Update dependencies
 Rewrite function Y
+Optimize loop
